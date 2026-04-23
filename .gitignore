@@ -1,0 +1,24 @@
+# Object files
+obj/
+*.o
+
+# Executables
+transports
+benchmark
+test_solver
+
+# Generated traces and logs
+trace*.txt
+trace*.png
+
+# Backups and temp files
+original_state_backup/
+*.swp
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
